@@ -1,5 +1,5 @@
 Create a project using create-react-app.
-Create inside App.js a products array of object, each object contain a category, price and a name, you could have only two category (Electronics and Clothes).
+Create inside index.js a products array of object, each object contain a category, price and a name, you could have only two category (Electronics and Clothes).
 Create a ProductTable component, pass products array as props.
 use ProductTable component as a root component for your react app.
 ProductTable returns a table that have three column Name, category and price.
